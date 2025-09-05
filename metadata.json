@@ -1,0 +1,5 @@
+{
+  "name": "Trend Sentinel",
+  "description": "A high-performance dashboard for real-time social media and news trend detection, sentiment analysis, and viral event alerting, inspired by modern data-intensive applications.",
+  "requestFramePermissions": []
+}
